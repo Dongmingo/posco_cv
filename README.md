@@ -1,2 +1,2 @@
 # posco_cv
-Scripts for POSCOComputerVision Practice codes
+Scripts for POSCO ComputerVision Practice codes
